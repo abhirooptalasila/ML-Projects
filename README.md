@@ -1,2 +1,3 @@
 # ML-Projects
-Collection of projects to practice different architectures and try new algorithms
+
+This repository is a collection of projects I've tried out to practice different architectures and try new algorithms. 
