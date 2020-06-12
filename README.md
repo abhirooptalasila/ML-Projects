@@ -6,3 +6,6 @@ This repository is a collection of projects I've tried out to practice different
 
 
 ## Breast Cancer Classification using KNN
+
+
+## Image Denoising using Convolutional Autoencoders
