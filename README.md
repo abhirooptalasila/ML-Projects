@@ -9,3 +9,6 @@ This repository is a collection of projects I've tried out to practice different
 
 
 ## Image Denoising using Convolutional Autoencoders
+
+
+## Bioactivity prediction for Drug Discovery
